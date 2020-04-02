@@ -16,6 +16,8 @@ services:
             - ASF_ARGS=--server
         ports:
             - 1242:1242
+        volumes:
+            - ${ROOT}/asf/sebi_asf.json
         
         
 ```
