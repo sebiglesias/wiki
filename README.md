@@ -11,11 +11,13 @@ description: >-
 
 My weird entries, they may be a blog post or simply me jotting down something. Also some random, mostly useless projects linked from Github.
 
+## About Me
+
 ## Home Experiments
 
 I've been working on documenting some of the stuff I do in my LAN. Look [here](home-experiments-1/raspberry/)
 
-## About Me
+## Weekly programming challenges
 
 
 
