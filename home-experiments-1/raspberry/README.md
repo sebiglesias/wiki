@@ -54,7 +54,7 @@ sudo pip3 install docker-compose
 >
 > [https://pi-hole.net/](https://pi-hole.net/)
 
-* [ArchiSteamFarm ](archisteamfarm.md)
+* [ArchiSteamFarm ]()
 
 > ASF is a C\# application with primary purpose of idling Steam cards from multiple accounts simultaneously. Unlike Idle Master which works only for one account at given time, while requiring Steam client running in the background and launching additional processes imitating "game playing" status, ASF doesn't require any Steam client running in the background, doesn't launch any additional processes and is made to handle unlimited Steam accounts at once. In addition to that, it's meant to be run on servers or other desktop-less machines, and features full cross-OS support, which makes it possible to launch on any operating system with .NET Core runtime, such as Windows, Linux and OS X. ASF is possible thanks to gigantic amount of work done in marvelous [**SteamKit2**](https://github.com/SteamRE/SteamKit) library.
 >
